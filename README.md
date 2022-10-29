@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwan88nasser&label=Profile%20views&color=0e75b6&style=flat" alt="marwan88nasser" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marwan88nasser" alt="marwan88nasser" /></a> </p>
-
 - 🌱 I’m currently learning **Vue.js**
 
 - 💬 Ask me about **Frontend, Javascript**
